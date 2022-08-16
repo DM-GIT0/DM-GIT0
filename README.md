@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Diego Martinez
+- 👀 I’m interested in pursuing a degree in Data Engineering. 
+- 🌱 I’m currently learning and expanding my skills in Python, SQL, Tableau, and more. 
